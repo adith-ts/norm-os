@@ -162,3 +162,5 @@ calamares
 yaml-cpp
 kpmcore
 jdk-openjdk
+os-installer
+os-installer-config
