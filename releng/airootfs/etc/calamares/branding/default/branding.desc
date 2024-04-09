@@ -15,13 +15,13 @@ navigation: widget
 
 
 strings:
-    productName:         DTOS
-    shortProductName:    DTOS
-    version:             2023.08
-    shortVersion:        2023.08
-    versionedName:       DTOS
-    shortVersionedName:  DTOS
-    bootloaderEntryName: DTOS
+    productName:         NORMOS
+    shortProductName:    NORMOS
+    version:             2024.01
+    shortVersion:        2023.01
+    versionedName:       NORMOS
+    shortVersionedName:  NORMOS
+    bootloaderEntryName: NORMOS
     productUrl:          https://distro.tube/dtos/
     supportUrl:          https://distro.tube/dtos/
     releaseNotesUrl:     https://distro.tube/dtos/
