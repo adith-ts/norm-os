@@ -147,9 +147,9 @@ xf86-video-qxl
 xf86-video-amdgpu
 nvidia
 xorg
-gdm
 gnome
 gnome-tweaks
+#xfce4
 firefox
 htop
 zeitgeist
@@ -164,3 +164,6 @@ kpmcore
 jdk-openjdk
 os-installer
 os-installer-config
+lightdm
+lightdm-gtk-greeter
+emacs

@@ -1,11 +1,4 @@
-echo "###################################"
-echo "Start normos-before"
-echo "###################################"
-
-
+#!/usr/bin/env bash
 pacman-key --init
 pacman-key --populate
 
-echo "###################################"
-echo "Start normos-before"
-echo "###################################"
